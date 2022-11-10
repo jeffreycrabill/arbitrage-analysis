@@ -1,0 +1,19 @@
+    1  cd coding_stuff
+    2  cd challenge3
+    3  git status
+    4  touch .gitignor
+    5  touch .gitignore
+    6  git status
+    7  git add .gitignore
+    8  git add images
+    9  git commit -am "adding git ignore and images"
+   10  git push
+   11  git status
+   12  git add read.md
+   13  git add readme.md
+   14  git status
+   15  git add readme.md
+   16  git commit -a "readme image fixed"
+   17  git commit -am "readme image fixed"
+   18  git push
+   19  history 50 > terminal_history.txt
