@@ -23,7 +23,7 @@ Be sure to have python, jupyterlab, matplotlib, and pandas installed before runn
 ## Usage
 To use this data, download the challenge3 file from the repository at (https://github.com/jeffreycrabill/challenge3).  Open up the cyrpo_arbitrage.ipynb file in VS Code.
 
-![Arbitrage Spread](images/2018-01-28.png)
+![Arbitrage Spread](./images/2018-01-28_spread.png)
 
 ---
 
